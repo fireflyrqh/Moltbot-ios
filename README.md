@@ -1,9 +1,9 @@
-# Moltbot-ios APP
+# OpenClaw-ios APP
 <p align="center">
   <img src="./logo.png" width="88" height="88" alt="Molt logo" />
 </p>
 
-<h1 align="center">MoltBot iOS Third‑Party Client</h1>
+<h1 align="center">OpenClaw/MoltBot iOS Third‑Party Client</h1>
 
 <p align="center">
   Built on <strong>MoltBot/Clawbot</strong> · TestFlight Public Beta
